@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Listacompra_react_css/static/css/main.3d75b8e5.css",
+    "main.js": "/Listacompra_react_css/static/js/main.7d319ce1.js",
+    "static/js/787.672cee90.chunk.js": "/Listacompra_react_css/static/js/787.672cee90.chunk.js",
+    "index.html": "/Listacompra_react_css/index.html",
+    "main.3d75b8e5.css.map": "/Listacompra_react_css/static/css/main.3d75b8e5.css.map",
+    "main.7d319ce1.js.map": "/Listacompra_react_css/static/js/main.7d319ce1.js.map",
+    "787.672cee90.chunk.js.map": "/Listacompra_react_css/static/js/787.672cee90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d75b8e5.css",
+    "static/js/main.7d319ce1.js"
+  ]
+}
