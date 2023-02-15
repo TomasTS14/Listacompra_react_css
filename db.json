@@ -1,0 +1,24 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "nombre": "pantalOOOnx",
+      "precio": 22.9
+    },
+    {
+      "id": 2,
+      "nombre": "jerseyy",
+      "precio": "30"
+    },
+    {
+      "nombre": "aaa",
+      "precio": "12",
+      "id": 3
+    },
+    {
+      "nombre": "aan",
+      "precio": "12",
+      "id": 4
+    }
+  ]
+}
